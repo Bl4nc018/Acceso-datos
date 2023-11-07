@@ -1,0 +1,20 @@
+
+        [
+  {
+    "model": "dashboard04app.dashboard",
+    "pk": 1,
+    "fields": {
+      "title": "Forocoches",
+      "content": "test_733"
+    }
+  },
+  {
+    "model": "dashboard04app.dashboard",
+    "pk": 2,
+    "fields": {
+      "title": "Foromotos",
+      "content": "test_478"
+    }
+  }
+]
+        

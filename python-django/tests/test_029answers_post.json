@@ -1,0 +1,32 @@
+
+                [
+          {
+            "model": "dashboard04app.dashboard",
+            "pk": 1,
+            "fields": {
+              "title": "Forocoches",
+              "content": "Test"
+            }
+          },
+          {
+            "model": "dashboard04app.question",
+            "pk": 1,
+            "fields": {
+              "dashboard": 1,
+              "title": "Pitagoras1",
+              "content": "Test1",
+              "publication_date": "2022-07-14T09:59:42.347Z"
+            }
+          },
+          {
+            "model": "dashboard04app.question",
+            "pk": 2,
+            "fields": {
+              "dashboard": 1,
+              "title": "Pitagoras2",
+              "content": "Test2",
+              "publication_date": "2022-07-14T10:01:42.280Z"
+            }
+          }
+        ]
+                

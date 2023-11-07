@@ -1,0 +1,60 @@
+
+        [
+  {
+    "model": "dashboard04app.dashboard",
+    "pk": 1,
+    "fields": {
+      "title": "Forocoches",
+      "content": "Test"
+    }
+  },
+  {
+    "model": "dashboard04app.dashboard",
+    "pk": 2,
+    "fields": {
+      "title": "Foromotos",
+      "content": "Test"
+    }
+  },
+  {
+    "model": "dashboard04app.question",
+    "pk": 1,
+    "fields": {
+      "dashboard": 1,
+      "title": "Pitagoras1",
+      "content": "test_445",
+      "publication_date": "2022-07-14T09:59:42.347Z"
+    }
+  },
+  {
+    "model": "dashboard04app.question",
+    "pk": 2,
+    "fields": {
+      "dashboard": 1,
+      "title": "Pitagoras2",
+      "content": "test_54",
+      "publication_date": "2022-07-14T10:01:42.280Z"
+    }
+  },
+  {
+    "model": "dashboard04app.question",
+    "pk": 3,
+    "fields": {
+      "dashboard": 1,
+      "title": "Pitagoras3",
+      "content": "test_523",
+      "publication_date": "2022-07-14T10:02:07.941Z"
+    }
+  },
+    {
+    "model": "dashboard04app.question",
+    "pk": 4,
+    "fields": {
+      "dashboard": 2,
+      "title": "Moto",
+      "content": "Test",
+      "publication_date": "2022-07-14T10:02:07.941Z"
+    }
+  }
+]
+        
