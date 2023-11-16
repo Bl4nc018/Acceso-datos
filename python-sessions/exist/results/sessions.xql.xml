@@ -1,0 +1,25 @@
+<bookAccess>
+    <name>El inocente</name>
+    <accessTimes>
+        <access>
+            <viewedBy>Alice</viewedBy>
+            <date>15/August/2016</date>
+        </access>
+        <access>
+            <viewedBy>Ephraim</viewedBy>
+            <date>11/November/2019</date>
+        </access>
+        <access>
+            <viewedBy>Helena</viewedBy>
+            <date>20/August/2012</date>
+        </access>
+        <access>
+            <viewedBy>Helena</viewedBy>
+            <date>23/February/2020</date>
+        </access>
+        <access>
+            <viewedBy>Paul</viewedBy>
+            <date>10/February/2015</date>
+        </access>
+    </accessTimes>
+</bookAccess>

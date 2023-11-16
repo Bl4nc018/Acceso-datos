@@ -1,0 +1,27 @@
+[
+{
+ "model": "idearest04app.category",
+ "pk": 1,
+ "fields": {
+  "title": "Cat1"
+ }
+},
+{
+ "model": "idearest04app.customuser",
+ "pk": 1,
+ "fields": {
+  "email": "test_1700040817.1810987@test.co.uk",
+  "username": "Test User",
+  "encrypted_password": "$2b$12$Re22Ht4N5pZxrLGEgZcy..ZmrycSInMpWE.Lk6BYcYyw7OufwzvBS"
+ }
+},
+{
+ "model": "idearest04app.usersession",
+ "pk": 1,
+ "fields": {
+  "creator": 1,
+  "token": "859b40b7de99773f486b"
+ }
+}
+]
+        
